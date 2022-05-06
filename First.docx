@@ -1,0 +1,6 @@
+This is a word file.
+#include<stdio.h>
+void main()
+{
+    printf("Hello World");
+}
